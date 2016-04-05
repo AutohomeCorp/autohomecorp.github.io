@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
-url:
+title:            汽车之家运维开发团队博客
+locale:           zh_CN
+url:              autohomeops.github.io
 
 
 # Jekyll configuration
@@ -41,9 +41,9 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Your Name
+  name: 汽车之家运维开发团队
   avatar: bio-photo.jpg
-  bio: "Describe your self."
+  bio: "基础平台研发."
   email:
   disqus-shortname:
   twitter: #username
