@@ -1,1 +1,1 @@
-git push github  master:master
+git push origin master:master

@@ -44,7 +44,7 @@ owner:
   name: 汽车之家运维开发团队
   avatar: bio-photo.jpg
   bio: "基础平台研发."
-  email:
+  email: wucheng@autohome.com.cn
   disqus-shortname:
   twitter: #username
   facebook: #username
@@ -55,7 +55,7 @@ owner:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: AutohomeOps
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
   linkedin: #username
   xing: #username
