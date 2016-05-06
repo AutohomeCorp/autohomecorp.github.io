@@ -2,7 +2,7 @@
 
 title:            汽车之家运维团队博客
 locale:           zh_CN
-url: 
+url:
 
 
 # Jekyll configuration
@@ -45,7 +45,7 @@ owner:
   avatar: bio-photo.jpg
   bio: "基础平台研发."
   email: wucheng@autohome.com.cn
-  disqus-shortname:
+  disqus-shortname: autohomeops
   twitter: #username
   facebook: #username
   google:
