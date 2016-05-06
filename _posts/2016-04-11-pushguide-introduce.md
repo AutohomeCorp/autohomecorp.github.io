@@ -13,12 +13,12 @@ comments: true
 
 ### 作者介绍
 
-本文作者是王金龙 <wangjinlong@autohome.com.cn>，主要负责汽车之家发布系统，CMDB系统的开发工作，擅长python自动化运维开发。
+本文作者是王金龙 <autohomeops@autohome.com.cn>，主要负责汽车之家发布系统，CMDB系统的开发工作，擅长python自动化运维开发。
 
 ### 团队介绍
 
 我们是汽车之家运维团队，是汽车之家技术部里最为核心的团队，由op和dev共同组成。我们的目标是为汽车之家集团打造一个高性能，高可扩展，低成本，并且稳定可靠的网站基础设施平台。
-团队技术博客地址为 http://autohomeops.github.io/
+团队技术博客地址为 http://autohomeops.corpautohome.com
 
 ![image](/images/cli_200px.png)
 
