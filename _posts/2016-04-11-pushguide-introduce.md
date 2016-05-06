@@ -9,8 +9,6 @@ comments: true
 
 ---
 
-# pushguide发布系统介绍
-
 ## 介绍
 
 ### 作者介绍
