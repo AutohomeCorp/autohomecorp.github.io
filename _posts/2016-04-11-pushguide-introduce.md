@@ -1,7 +1,7 @@
 ---
 
 layout: post          
-title: pushguide发布系统介绍
+title: PushGuide发布系统介绍
 category: articles 
 tags: [发布系统] 
 author: jinlongwang 
