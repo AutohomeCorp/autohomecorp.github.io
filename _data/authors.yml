@@ -48,3 +48,13 @@ jinlongwang:
   email: jinlongwang89@gmail.com
   bio: "stay hungry stay foolish"
   avatar: jinlong-avatar.jpeg
+
+pylixm:
+    name: Pylixm
+    web: http://pylixm.cc
+    email: pyli.xm@gmail.com
+    bio: "To be a better man."
+    avatar: pylixm-avatar.jpg
+    #twitter: wucheng
+    google:
+        plus: pylixm
