@@ -3,7 +3,7 @@ layout: post
 title: 汽车之家为Open-Falcon贡献Windows监控
 category: articles
 tags: [汽车之家,监控,open-falcon,开源]
-author: wangjinlong
+author: jinlongwang
 comments: true
 
 ---
