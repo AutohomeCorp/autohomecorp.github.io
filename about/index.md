@@ -9,5 +9,4 @@ image:
   credit: WeGraphics
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
-
-我们是汽车之家运维开发团队，主要负责汽车之家系统平台部的基础IT设施建设，包括监控系统，代码发布系统，CMDB，配置管理系统，私有云。
+汽车之家系统平台部，由运维、研发、安全、DBA、质量保证等专业共同组成的技术中台产品与服务核心团队，研发并运营汽车之家云计算平台与运维管理平台等产品，是汽车之家基于新技术创新业务形态保持行业领先的基石，支撑了数以亿计的用户安全、稳定、快速的访问。
