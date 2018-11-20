@@ -164,5 +164,7 @@ Windows Agent的配置文件也和Linux Agent一下保持一致，如果你熟�
 # 后续计划
 我们计划下一步为`Windows Agent`加入更多的特性。例如对插件的支持，添加更丰富的监控项等。同时，汽车之家对Open-Falcon还做了很多的二次开发，比如告警的升级机制，多种维度的告警收敛，URL监控，网络监控等，并且已经应用到生产环境当中。以后我们也会把通用的组件开源，回馈社区。
 同时也感谢小米，感谢Open-Falcon社区。
+
 更多精彩技术文章，欢迎大家访问汽车之家系统平台团队博客`http://autohomeops.corpautohome.com`
+
 简历请发送`autohomeops@autohome.com.cn`, 期待你的加入！
