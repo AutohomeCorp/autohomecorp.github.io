@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title:            汽车之家运维团队博客
+title:            汽车之家系统平台团队博客
 locale:           zh_CN
 url: http://autohomecorp.github.io
 
@@ -41,7 +41,7 @@ titlecase: true
 
 # Site owner
 owner:
-  name: 汽车之家运维团队
+  name: 汽车之家系统平台团队
   avatar: bio-photo.jpg
   bio: "基础平台研发."
   email: wucheng@autohome.com.cn
